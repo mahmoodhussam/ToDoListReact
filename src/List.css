@@ -1,0 +1,21 @@
+.item{
+    background: #cf1ca9;
+    height:50px;
+    width: 400px;
+    margin:20px auto;
+    border-radius:10px;
+   
+}
+#item-p{
+    position: relative;
+    padding :10px 20px ;
+    font-size:20px;
+    color:#fff;
+}
+#trach{
+    position:absolute;
+    width: 30px;
+    height:30px;
+    right: 10px;
+    cursor: pointer;
+}
